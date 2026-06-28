@@ -53,7 +53,7 @@ export default function WorkspaceSelectionPage() {
             </div>
             <div className="mt-8">
               <button
-                onClick={() => handleSelectWorkspace('transeditor')}
+                // onClick={() => handleSelectWorkspace('transeditor')}
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 px-6 py-2.5 bg-[#0070f3] hover:bg-[#0051b3] active:bg-[#004099] text-white text-xs font-bold rounded-lg shadow-sm transition-all cursor-pointer whitespace-nowrap"
               >
                 <span>Get Started</span>
